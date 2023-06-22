@@ -1,0 +1,10 @@
+RewriteEngine On
+
+RewriteRule ^Accueil index.php?page=Accueil [L]
+RewriteRule ^Creations index.php?page=Creations [L]
+RewriteRule ^Presentation index.php?page=Presentation [L]
+RewriteRule ^Contact index.php?page=Contact [L]
+RewriteRule ^Confidentialité index.php?page=Confidentialité [L]
+RewriteRule ^Conditions index.php?page=Conditions [L]
+
+RewriteRule ^Projet/(.*)$ index.php?page=Projet&projet=$1 [PT]

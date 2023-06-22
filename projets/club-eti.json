@@ -1,0 +1,19 @@
+{
+    "titre":"Club ETI",
+
+    "chapo":"Vestibulum sit amet neque sit amet urna vehicula tempus sed non arcu. Donec dapibus massa leo, semper vestibulum nunc imperdiet ut. Aenean a elit hendrerit, bibendum turpis id, ullamcorper neque. Vestibulum felis magna, ultrices at mauris in, iaculis laoreet elit. Cras malesuada felis a risus ornare viverra. Cras non eleifend leo, quis vehicula augue. Morbi ex mi, pulvinar ac scelerisque dignissim, luctus in est. Nulla in quam at tortor feugiat ultricies et et lectus. Nullam id blandit nisi, ut pulvinar enim.",
+
+    "date":"2000-01-01",
+
+    "miniature":"club-eti.jpg",
+
+    "image":"club-eti.png",
+
+    "contenu":"projet-template.php",
+
+    "filename":"club-eti",
+
+    "filtre":"website",
+
+    "meta":"Vestibulum sit amet neque sit amet urna vehicula tempus sed non arcu. Donec dapibus massa leo, semper vestibulum nunc imperdiet ut. Aenean a elit hendrerit, bibendum turpis id, ullamcorper neque."
+}
